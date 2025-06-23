@@ -56,7 +56,8 @@ h1{
 }
 #text{
     color:  hsl(224, 23%, 55%);
-    font-size: 1.3rem;
+    font-size: 1.2rem;
+    text-align: center;
     width: 75%;
     font-weight: 600;
 }
