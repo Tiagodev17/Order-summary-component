@@ -10,7 +10,7 @@
 }
 
 body{
-    background-image: url(images/pattern-background-desktop.svg);
+    background-image: url(img/images/pattern-background-desktop.svg);
     background-repeat: no-repeat;
     background-position: top center;
     background-size: contain;
@@ -32,7 +32,7 @@ section{
     
 }
 .background{
-    background-image: url(images/illustration-hero.svg);
+    background-image: url(img/images/illustration-hero.svg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
