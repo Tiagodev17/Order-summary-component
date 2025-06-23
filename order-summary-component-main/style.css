@@ -16,12 +16,8 @@ body{
     background-size: contain;
     background-color:  hsl(225, 100%, 94%);
 }
-main{
-    width: 100dvw;
-    height: 100vh;
-} 
 section{
-    
+    height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -32,5 +28,8 @@ section{
     width:35rem;
     background-color: white;
     border-radius: 1rem;
+    
+}
+.background{
     
 }
