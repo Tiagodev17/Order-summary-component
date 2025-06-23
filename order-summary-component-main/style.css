@@ -102,8 +102,7 @@ h2{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    gap: 1rem;
-    
+    gap: 1rem;   
 }
 .bottom1{
     display: flex;
@@ -118,7 +117,7 @@ h2{
     font-weight: 800;
     border-radius: 0.5rem;
 }
-.bottom1:hover{
+.bottom1:hover,:active{
     background-color: rgb(70, 31, 160);
 }
 .bottom2{
