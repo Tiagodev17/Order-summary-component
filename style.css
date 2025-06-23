@@ -117,7 +117,7 @@ h2{
     font-weight: 800;
     border-radius: 0.5rem;
 }
-.bottom1:hover,:active{
+.bottom1:hover{
     background-color: rgb(70, 31, 160);
 }
 .bottom2{
